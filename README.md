@@ -2,9 +2,7 @@
   Portfolio Website - v2.0<br/>
   <a href="https://gopchat-13920.web.app/" target="_blank">Gopal.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+
 
 <br/>
 
@@ -13,8 +11,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)  
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/Portfolio?color=red&logo=github&style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
@@ -22,7 +18,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://gopchat-13920.web.app/" target="_blank">https://gopchat-13920.web.app/</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://gopchat-13920.web.app/" target="_blank">Gopal | Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -40,7 +36,7 @@ This project was built using these technologies.
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone down this repository.
 
 ## 🛠 Installation and Setup Instructions
 
